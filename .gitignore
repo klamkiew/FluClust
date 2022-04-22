@@ -1,3 +1,7 @@
 .ipynb_checkpoints/
 A.fasta
 B.fasta
+data/*
+results/*
+.DS_Store
+.vscode/launch.json
