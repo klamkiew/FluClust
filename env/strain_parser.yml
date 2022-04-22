@@ -1,0 +1,7 @@
+name: strain_parser
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - docopt
+  - thefuzz
